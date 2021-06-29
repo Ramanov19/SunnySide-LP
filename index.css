@@ -12,7 +12,7 @@ body, html{
 
 .heroImage{
     height: inherit;
-    background-image: url(/images/desktop/image-header.jpg);
+    background-image: url(./images/desktop/image-header.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -95,7 +95,7 @@ body, html{
         top: 15px;
         right: 50px;
     }
-
+    
     .heroImage #mobilemenu header{
         position: absolute;
         top: 30px;
@@ -145,13 +145,13 @@ body, html{
 }
 .grid .egg{
     grid-area: egg;
-    background-image: url(/images/desktop/image-transform.jpg);
+    background-image: url(./images/desktop/image-transform.jpg);
     background-size: cover;
     background-position: center;
 }
 .grid .cup{
     grid-area: cup;
-    background-image: url(/images/desktop/image-stand-out.jpg);
+    background-image: url(./images/desktop/image-stand-out.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -162,14 +162,14 @@ body, html{
 .grid .graphic{
     grid-area: graphic;
     position: relative;
-    background-image: url(/images/desktop/image-graphic-design.jpg);
+    background-image: url(./images/desktop/image-graphic-design.jpg);
     background-size: cover;
     background-position: center;
 }
 .grid .photo{
     grid-area: photo;
     position: relative;
-    background-image: url(/images/desktop/image-photography.jpg);
+    background-image: url(./images/desktop/image-photography.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -532,25 +532,25 @@ transition: 0.5s all ease-in-out;
 
 .gridImage .cloud{
     grid-area: cloud;
-    background-image: url(/images/desktop/image-gallery-milkbottles.jpg);
+    background-image: url(./images/desktop/image-gallery-milkbottles.jpg);
     background-size: cover;
     background-position: center;
 }
 .gridImage .orang{
     grid-area:orang;
-    background-image: url(/images/desktop/image-gallery-orange.jpg);
+    background-image: url(./images/desktop/image-gallery-orange.jpg);
     background-size: cover; 
     background-position: center;  
 }
 .gridImage .cone{
     grid-area: cone;
-    background-image: url(/images/desktop/image-gallery-cone.jpg);
+    background-image: url(./images/desktop/image-gallery-cone.jpg);
     background-size: cover;
     background-position: center;
 }
 .gridImage .cubes{
     grid-area: cubes;
-    background-image: url(/images/desktop/image-gallery-sugarcubes.jpg);
+    background-image: url(./images/desktop/image-gallery-sugarcubes.jpg);
     background-size: cover;
     background-position: center;
 }
